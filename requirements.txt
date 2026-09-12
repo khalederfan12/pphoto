@@ -1,7 +1,7 @@
 streamlit
 torch
 torchvision
-basicsr
+basicsr==1.4.2
 facexlib
 gfpgan
 realesrgan
